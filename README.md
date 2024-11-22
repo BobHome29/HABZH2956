@@ -1,2 +1,2 @@
 # HABZH2956
-Publier des info Home Assistant
+Publier des infos Home Assistant
